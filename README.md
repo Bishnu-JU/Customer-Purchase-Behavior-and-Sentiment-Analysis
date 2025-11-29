@@ -21,7 +21,7 @@ Programming: Python (Pandas, NumPy)
 
 Visualization: Matplotlib, Seaborn, Power BI/Tableau (if used)
 
-NLP: NLTK / TextBlob / Scikit-learn (based on your implementation)
+NLP: NLTK / TextBlob / Scikit-learn 
 
 Data Handling: CSV/Excel datasets
 
